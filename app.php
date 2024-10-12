@@ -8,6 +8,6 @@ class app
 
     public $g;
     public $togitlub;
-    public $togitlub23;
+    public $togitlub45;
 
 }
