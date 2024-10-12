@@ -4,9 +4,9 @@ namespace app;
 
 class app
 {
-    public $x;
+    public $xss;
 
     public $g;
-
+    public $togitlub;
 
 }
