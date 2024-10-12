@@ -4,6 +4,6 @@ namespace app;
 
 class app
 {
-
+    public $fromDomClone;
 
 }
