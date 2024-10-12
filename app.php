@@ -4,10 +4,8 @@ namespace app;
 
 class app
 {
-    public $xss;
+    public $fromDomClone5;
+    public $and_one_more = true;
 
-    public $g;
-    public $togitlub;
-    public $togitlub45;
 
 }
