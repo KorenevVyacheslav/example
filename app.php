@@ -4,5 +4,6 @@ namespace app;
 
 class app
 {
-    public $any;
+    public $x;
+
 }
